@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Contacts page
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 19.445 s <<< FAILURE! - in Contacts page
+login as a given user(Contacts page)  Time elapsed: 19.445 s  <<< ERROR!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'macbooks-MacBook-Air.local', ip: 'fe80:0:0:0:cb4:4fb0:fa6d:15d0%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '15.0.1'
+Driver info: driver.version: RemoteWebDriver
+
